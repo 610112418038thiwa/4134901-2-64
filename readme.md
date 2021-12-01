@@ -9,8 +9,9 @@ _สาขาเทคโนโลยรสารสนเทศ_
 >รหัสนักศึกษา 610112418038
 
 ###Link LAB
-[LAB1]()
-[LAB2]()
+[LAB1](https://github.com/610112418038thiwa/4134901-2-64/tree/main/LAB1)
+[LAB2](https://github.com/610112418038thiwa/4134901-2-64/tree/main/LAB2)
+[LAB3](https://github.com/610112418038thiwa/4134901-2-64/tree/main/LAB3)
 
 ###RUN
 **LAB1**
