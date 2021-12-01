@@ -17,7 +17,7 @@ _สาขาเทคโนโลยรสารสนเทศ_
 **LAB1**
 >npm install
 ```
-    const person = {firstName:"Aomsin",lastName:"Jirodom",age:22}
+    const person = {firstName:"Thiwa",lastName:"Suthakhem",age:21}
 ```
 **LAB2**
 >npm update
